@@ -1,0 +1,18 @@
+h1
+{
+  font-family: Monterrat;
+}
+
+body
+{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to left, #00AAFF, #00FF6C);
+}
+
+.center
+{
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
